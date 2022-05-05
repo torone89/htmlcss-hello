@@ -1,9 +1,10 @@
 * {box-sizing: border-box;
+    background-color: aqua;
 }
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    font-size: small;
+    font-size: normal;
     font-weight: normal;
     text-align: left;
     color: black;
@@ -12,4 +13,11 @@ body {
 header {
     text-align: center;
     color: red;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
+    text-decoration: overline;
+    color: darkblue;
 }
