@@ -15,9 +15,15 @@ header {
     color: red;
 }
 
+h1 {border: 5px solid black;}
+
+p {padding-top: 20px;
+padding-left: 10px;
+padding-right: 10px;}
 footer {
     font-size: small;
     text-align: center;
     text-decoration: overline;
     color: darkblue;
+    padding-top: 400px;
 }
