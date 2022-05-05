@@ -1,13 +1,15 @@
-*{box-sizing: border-box;
+* {box-sizing: border-box;
 }
 
-body{
+body {
     font-family: 'Courier New', Courier, monospace;
     font-size: small;
     font-weight: normal;
+    text-align: left;
+    color: black;
 }
 
-header{
+header {
     text-align: center;
     color: red;
 }
