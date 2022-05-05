@@ -6,3 +6,8 @@ body{
     font-size: small;
     font-weight: normal;
 }
+
+header{
+    text-align: center;
+    color: red;
+}
